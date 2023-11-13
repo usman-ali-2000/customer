@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040523139522",
+    "project_id": "customerapp-190da",
+    "storage_bucket": "customerapp-190da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040523139522:android:1e6119630d5eceac7c9e5b",
+        "android_client_info": {
+          "package_name": "com.usman2000.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040523139522-gvh08un5mao7m2a51a1ba30l6sqf3s2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHk4QhpRe9RXBLCAB2wEXmhf0DSzVRiok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040523139522-gvh08un5mao7m2a51a1ba30l6sqf3s2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
